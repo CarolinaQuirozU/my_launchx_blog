@@ -8,6 +8,13 @@ Hola ✌️ soy la explorer Carolina, éste es mi blog personal donde compartir�
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 
-Tengo como expectativas de este proyecto, además de aprender, tener la oportunidad de practicar, romper, arreglar y mejorar. 
+Tengo como expectativas de este proyecto:
+- Aprender
+- Tener la oportunidad de practicar
+- Romper
+- Arreglar lo que rompí 
+- Mejorar lo arreglé
+
+¡Saludos!
 
 🚀
