@@ -4,7 +4,7 @@ date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Considero que como desarrollador de software debes tener ciertas caracterísitcas personales que te ayudarán a tener una mejor administración del tiempo y que por consecuencia aumentarán tu valor profesional.
+Considero que como desarrollador de software debes tener ciertas características personales que te ayudarán a tener una mejor administración del tiempo y que por consecuencia aumentarán tu valor profesional.
 
 Si bien no nacemos sabiendo, es verdad que muchas de esas caracterísitcsa se pueden aprender y desarrollar.
 
