@@ -1,5 +1,5 @@
 ---
-title: "Mi ruta de aprendizaje"
+title: "Mi ruta de aprendizaje."
 date: 2022-04-13
 description: 'Siendo consciente'
 ---
