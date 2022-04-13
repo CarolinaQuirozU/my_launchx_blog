@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje"
 date: 2022-04-13
-description: 'Descripción de tu blog post'
+description: 'Siendo consciente'
 ---
 
 ¡Hola!
