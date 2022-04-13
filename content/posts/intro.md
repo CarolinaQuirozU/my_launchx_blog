@@ -10,13 +10,13 @@ Si bien no nacemos sabiendo, es verdad que muchas de esas caracterísitcsa se pu
 
 Por ejemplo, valores como: 
 
-> Responsabilidad
-> Organización
-> Honestidad
-> Dedicación
-> Tolerancia
-> Confianza
-> Respeto
-> Fidelidad
+- Responsabilidad
+- Organización
+- Honestidad
+- Dedicación
+- Tolerancia
+- Confianza
+- Respeto
+- Fidelidad
               
 Considero también que las ganas de aprender funcionan como impulsor de innovación y creatividad, por lo que un desarrollador debe apegarse, sí a la solicitud del cliente, pero también siempre agregar valor con su propia experiencia.
